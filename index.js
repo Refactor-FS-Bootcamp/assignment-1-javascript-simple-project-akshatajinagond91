@@ -13,6 +13,8 @@ let cYear = currentDate.getFullYear()
 
 function saveData(event){
     event.preventDefault();
+    window.location.reload();
+
 
     let title=document.querySelector("input").value;
     if(title===""){
