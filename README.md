@@ -1,1 +1,6 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10641641&assignment_repo_type=AssignmentRepo)
+
+Home page of the application with add notes , delete  and edit features.
+
+
+![image](https://user-images.githubusercontent.com/105930703/228002096-2f0aa7de-7de5-4085-a04b-86f9d51068d4.png)
+
